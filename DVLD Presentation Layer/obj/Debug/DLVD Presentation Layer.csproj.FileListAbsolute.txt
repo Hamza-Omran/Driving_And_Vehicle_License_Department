@@ -1,0 +1,52 @@
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DLVD Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Applications.frmReplaceLicense.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Applications.International_Driving_License.frmInternationalLicenseInfo.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Applications.International_Driving_License.frmManageInternationalLicenses.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Applications.International_Driving_License.frmNewInternationalLicenseApplication.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Applications.Local_Driving_License.frmIssueLicense.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Applications.Local_Driving_License.frmRenewLocalDrivingLicense.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Applications.Local_Driving_License.frmShowApplicationDetails.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Applications.Local_Driving_License.frmShowLicense.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Applications.Local_Driving_License.frmShowLicenseHistory.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.frmAddOrEditLDL.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Take_Appointment.Controls.frmTakeTest.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Take_Appointment.frmAddOrEditTestAppointment.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Applications.Take_Appointment.frmManageAppointmentsTests.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.ctrlFilterPerson.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.ctrlPersonInfo.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Applications.Controls.ctrlDrivingLicenseAppInfo.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.ctrlFilterLicense.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.ctrlInternationalLicenseInfo.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.ctrlLicenseCard.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.ctrlUserInfoCard.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Detain.frmDetainLicense.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Detain.frmManageDetainedLicenses.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Detain.frmReleaseDetainLicense.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Drivers.frmManageDrivers.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.AddOrEditUserForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.AddOrEditPersonForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.ChangeUserPasswordForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.LoginScreenForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.MainScreenForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.ManageLocalDrivingApplicationsForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.ManageApplicationTypesForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.ManagePeopleForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.ManageTestTypesForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.ManageUsersForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.PersonInfoForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.Properties.Resources.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.UpdateApplicationTypeForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.UpdateTestTypeForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD_Presentation_Layer.UserInfoCardForm.resources
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DLVD Presentation Layer.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DLVD Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\bin\Debug\DVLD Presentation Layer.exe.config
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\bin\Debug\DVLD Presentation Layer.exe
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\bin\Debug\DVLD Presentation Layer.pdb
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\bin\Debug\DVLD Business Layer.dll
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\bin\Debug\DVLD Data Access Layer.dll
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\bin\Debug\DVLD Business Layer.pdb
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\bin\Debug\DVLD Data Access Layer.pdb
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DLVD Pre.4F96ABB6.Up2Date
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD Presentation Layer.exe
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Presentation Layer\obj\Debug\DVLD Presentation Layer.pdb

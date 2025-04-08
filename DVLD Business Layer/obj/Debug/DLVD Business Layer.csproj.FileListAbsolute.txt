@@ -1,0 +1,9 @@
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Business Layer\bin\Debug\DVLD Business Layer.dll
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Business Layer\bin\Debug\DVLD Business Layer.pdb
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Business Layer\bin\Debug\DVLD Data Access Layer.dll
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Business Layer\bin\Debug\DVLD Data Access Layer.pdb
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Business Layer\obj\Debug\DLVD Business Layer.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Business Layer\obj\Debug\DLVD Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Business Layer\obj\Debug\DLVD Bus.D1A553CA.Up2Date
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Business Layer\obj\Debug\DVLD Business Layer.dll
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Business Layer\obj\Debug\DVLD Business Layer.pdb

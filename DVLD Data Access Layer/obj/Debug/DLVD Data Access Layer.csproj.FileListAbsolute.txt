@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Data Access Layer\bin\Debug\DVLD Data Access Layer.dll
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Data Access Layer\bin\Debug\DVLD Data Access Layer.pdb
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Data Access Layer\obj\Debug\DLVD Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Data Access Layer\obj\Debug\DLVD Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.dll
+C:\Users\dell\source\repos\DVLD Presentation Layer\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.pdb

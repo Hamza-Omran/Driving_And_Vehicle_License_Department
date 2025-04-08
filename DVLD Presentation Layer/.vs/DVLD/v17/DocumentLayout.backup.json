@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\DVLD Presentation Layer\\DVLD Presentation Layer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD91A8-CEDC-4068-8D15-20CC28893C11}|DVLD Presentation Layer.csproj|c:\\users\\dell\\source\\repos\\dvld presentation layer\\dvld presentation layer\\users\\frmaddoredituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD91A8-CEDC-4068-8D15-20CC28893C11}|DVLD Presentation Layer.csproj|solutionrelative:users\\frmaddoredituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD91A8-CEDC-4068-8D15-20CC28893C11}|DVLD Presentation Layer.csproj|c:\\users\\dell\\source\\repos\\dvld presentation layer\\dvld presentation layer\\users\\frmaddoredituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACBD91A8-CEDC-4068-8D15-20CC28893C11}|DVLD Presentation Layer.csproj|solutionrelative:users\\frmaddoredituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD91A8-CEDC-4068-8D15-20CC28893C11}|DVLD Presentation Layer.csproj|c:\\users\\dell\\source\\repos\\dvld presentation layer\\dvld presentation layer\\users\\frmchangeuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD91A8-CEDC-4068-8D15-20CC28893C11}|DVLD Presentation Layer.csproj|solutionrelative:users\\frmchangeuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD91A8-CEDC-4068-8D15-20CC28893C11}|DVLD Presentation Layer.csproj|c:\\users\\dell\\source\\repos\\dvld presentation layer\\dvld presentation layer\\users\\frmchangeuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACBD91A8-CEDC-4068-8D15-20CC28893C11}|DVLD Presentation Layer.csproj|solutionrelative:users\\frmchangeuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD91A8-CEDC-4068-8D15-20CC28893C11}|DVLD Presentation Layer.csproj|c:\\users\\dell\\source\\repos\\dvld presentation layer\\dvld presentation layer\\global classes\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD91A8-CEDC-4068-8D15-20CC28893C11}|DVLD Presentation Layer.csproj|solutionrelative:global classes\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddOrEditUser.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DVLD Presentation Layer\\DVLD Presentation Layer\\Users\\frmAddOrEditUser.cs",
+              "RelativeDocumentMoniker": "Users\\frmAddOrEditUser.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DVLD Presentation Layer\\DVLD Presentation Layer\\Users\\frmAddOrEditUser.cs*",
+              "RelativeToolTip": "Users\\frmAddOrEditUser.cs*",
+              "ViewState": "AgIAAMAAAADA/v///587wMoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:04:01.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmChangeUserPassword.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DVLD Presentation Layer\\DVLD Presentation Layer\\Users\\frmChangeUserPassword.cs",
+              "RelativeDocumentMoniker": "Users\\frmChangeUserPassword.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DVLD Presentation Layer\\DVLD Presentation Layer\\Users\\frmChangeUserPassword.cs*",
+              "RelativeToolTip": "Users\\frmChangeUserPassword.cs*",
+              "ViewState": "AgIAADIAAAAAoDMzMzPjv0EAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:02:11.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmChangeUserPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DVLD Presentation Layer\\DVLD Presentation Layer\\Users\\frmChangeUserPassword.cs",
+              "RelativeDocumentMoniker": "Users\\frmChangeUserPassword.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DVLD Presentation Layer\\DVLD Presentation Layer\\Users\\frmChangeUserPassword.cs [Design]*",
+              "RelativeToolTip": "Users\\frmChangeUserPassword.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:01:56.647Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddOrEditUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DVLD Presentation Layer\\DVLD Presentation Layer\\Users\\frmAddOrEditUser.cs",
+              "RelativeDocumentMoniker": "Users\\frmAddOrEditUser.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DVLD Presentation Layer\\DVLD Presentation Layer\\Users\\frmAddOrEditUser.cs [Design]*",
+              "RelativeToolTip": "Users\\frmAddOrEditUser.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:01:55.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DVLD Presentation Layer\\DVLD Presentation Layer\\Global Classes\\clsUtil.cs",
+              "RelativeDocumentMoniker": "Global Classes\\clsUtil.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DVLD Presentation Layer\\DVLD Presentation Layer\\Global Classes\\clsUtil.cs",
+              "RelativeToolTip": "Global Classes\\clsUtil.cs",
+              "ViewState": "AgIAAGkAAAAA//////8pwIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:33:42.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
